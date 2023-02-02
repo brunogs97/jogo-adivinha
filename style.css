@@ -1,0 +1,20 @@
+body {
+    background: url('img.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+main {
+    width: 370px;
+    margin: 1em auto;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2em;
+}
+
+h3 {
+    font-size: 1.15em;
+}
